@@ -202,7 +202,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_margin="@dimen/margin_small"
-            android:layout_weight="5"
+            android:layout_weight="4"
             android:backgroundTint="#B7FA0000"
             android:text="@string/_ravno"
             android:textSize="@dimen/key_text_size" />
